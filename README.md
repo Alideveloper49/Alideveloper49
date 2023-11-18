@@ -1,3 +1,4 @@
+![logo](https://github.com/Alideveloper49/Alideveloper49/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
