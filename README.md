@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alideveloper49&label=Profile%20views&color=0e75b6&style=flat" alt="alideveloper49" /> </p>
 
 - 💬 Ask me about **A full-stack developer is an individual who can work on the whole stack, from hardware to the user interface. It's a challenging yet rewarding role that allows you to be involved in every aspect of the development process.**
